@@ -1,0 +1,4 @@
+php:
+  preset: ugarit
+js: true
+css: true

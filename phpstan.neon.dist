@@ -1,0 +1,11 @@
+parameters:
+  paths:
+    - config
+    - src
+
+  level: 0
+
+  ignoreErrors:
+    - "#Unsafe usage of new static\\(\\)#"
+    - "#Class Heritage\\\\Foundation\\\\Application not found.#"
+    - "#Class Ugarit\\\\Lumen\\\\Application not found.#"
